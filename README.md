@@ -1,4 +1,4 @@
-# openai-voice tool is a ChatGPT AI Voice Assistant. 
+# Openai-voice tool is a ChatGPT AI Voice Assistant that captures voice using Whisper, ChatGPT responds with the answer in both text form and speech form.
 
 - Powered by ChatGPT API, OpenAI Whisper, Coqui TTS and Gradio 
 
